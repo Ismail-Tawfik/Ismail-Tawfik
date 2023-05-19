@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A backend developer</h3>
-<img align="right" alt="coding" width="700" src="<h1 align="center">Hi 👋, I'm Ismail</h1>
+<h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A backend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
@@ -22,7 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-tawfik&show_icons=true&locale=en" alt="ismail-tawfik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-tawfik&" alt="ismail-tawfik" /></p>
-">
+
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-tawfik&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-tawfik" /> </p>
 
