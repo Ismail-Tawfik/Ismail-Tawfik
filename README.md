@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A backend developer</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Ismail-Tawfik/Ismail-Tawfik/assets/73764319/ca7a7da4-16ad-434c-8d0f-b82580ea172e)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/Ismail-Tawfik/Ismail-Tawfik/assets/73764319/96b8a597-7425-4ff4-a053-c3771cff6954">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-tawfik&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-tawfik" /> </p>
 
